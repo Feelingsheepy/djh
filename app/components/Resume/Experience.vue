@@ -18,6 +18,7 @@ const experienceItems = ref([
     position: 'Tech Lead',
     technology: 'Python, JavaScript, SQL, Azure Cloud Stack, SendGrid, NodeJS, Vue, Docker, Git',
     descriptions: [
+      `This was a small start-up located in Auckland, New Zealand. I worked remotely.`,
       `I was employed at this start-up to help convert a skeleton web application into a fully functioning, cloud-hosted web application.`,
       `This required re-factoring the code, setting up the git repository, deploying the code via docker and then using the docker to
         deploy the code on Azure App Services, integrating email capabilities using SendGrid, migrating the local SQL database to Azure
@@ -106,15 +107,15 @@ const experienceItems = ref([
 <template>
   <div class="relative">
     <p class="absolute left-[0px] -bottom-[7px] align-right font-medium text-sm">2012 Jun</p>
-    <p class="absolute left-[65px] -bottom-[12px] text-2xl">-</p>
-    <UIcon name="lucide:dot" class="absolute left-[56px] -bottom-[19px] size-10" />
+    <UIcon name="ph:git-commit-fill" class="absolute left-[69px] -bottom-[10px] size-6" />
     <h3 class="text-lg font-bold pb-2  text-(--ui-text-highlighted)">Experience:</h3>
-    <UAccordion :items="experienceItems" class="border-l-2 rounded-md ml-20">
+    <UAccordion :items="experienceItems" class="border-l-2 rounded-md ml-20 mt-5" :ui="{
+      trigger: 'border-(--ui-primary)'
+    }">
       <template #default="{ item }">
         <div class="relative pb-3">
-          <p class="absolute -left-[80px] -top-[25px] align-right">{{ item.dateEnd }}</p>
-          <p class="absolute -left-[16px] -top-[33px] text-2xl">-</p>
-          <UIcon name="lucide:dot" class="absolute -left-[25px] -top-[34px] size-10" />
+          <p class="absolute -left-[80px] -top-[26px] align-right">{{ item.dateEnd }}</p>
+          <UIcon name="ph:git-commit-fill" class="absolute -left-[13px] -top-[27px] size-6" />
           <h3 class="text-lg font-bold mx-5 text-(--ui-text-highlighted)">{{ item.label }}</h3>
           <div class="mx-10">
             <div v-if="item.position">

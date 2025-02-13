@@ -9,14 +9,11 @@
         <p>
           I am a software developer with 5+ years of experience. Most of my experience is in Web Development, but I have
           some experience working with desktop applications and mobile applications. My previous work has comprised
-          mostly
-          of back-end web development. I also have good experience working on front-ends, databases, dev-ops and cloud
-          infrastructure. I am looking for long-term employment at a company with a good company culture and an ability
-          to
-          adapt to the needs of the technology industry. I work well under pressure as I am a naturally calm person. I
-          get
-          along well with co-workers and clients. I am capable of following orders, but I can also be a leader when
-          necessary.
+          mostly of back-end web development. I also have good experience working on front-ends, databases, DevOps and
+          cloud infrastructure. I am looking for long-term employment at a company with a good company culture and an
+          ability to adapt to the needs of the technology industry. I work well under pressure as I am a naturally calm
+          person. I get along well with co-workers and clients. I am capable of following orders, but I can also be a
+          leader when necessary.
         </p>
       </section>
       <USeparator class="m-5" />
