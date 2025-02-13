@@ -1,0 +1,545 @@
+{
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+      },
+      "genres": [
+        "classical piano",
+        "classical"
+      ],
+      "id": "7y97mc3bZRFXzT2szRM4L4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174e55372097569b7b56b439365",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178e55372097569b7b56b439365",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Frédéric Chopin"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+      },
+      "genres": [
+        "classical"
+      ],
+      "id": "2QOIawHpSlOwXDvSqQ9YJR",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/9785700bae86f991f78183076861c7342a4bcf90",
+          "height": 1194,
+          "width": 1000
+        },
+        {
+          "url": "https://i.scdn.co/image/12caee0d8c2843b37e2b19da99e385010a2f8c5b",
+          "height": 764,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/4bdf9bc839ae7d30e69f6399ac47c74c1bd62212",
+          "height": 239,
+          "width": 200
+        },
+        {
+          "url": "https://i.scdn.co/image/30702c2e565f3c36fcc65673cf2f19fe852ca7c0",
+          "height": 76,
+          "width": 64
+        }
+      ],
+      "name": "Antonio Vivaldi"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+      },
+      "genres": [
+        "opera",
+        "classical"
+      ],
+      "id": "1C1x4MVkql8AiABuTw6DgE",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/afcdec6dff345cdd37dad153f8016960b0ed65eb",
+          "height": 1283,
+          "width": 1000
+        },
+        {
+          "url": "https://i.scdn.co/image/a0b90036e672efe68dcafe9610dbe81b7d48f1d7",
+          "height": 821,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/222afb5b9ea4ec7da4531ef607113a1d100e3462",
+          "height": 257,
+          "width": 200
+        },
+        {
+          "url": "https://i.scdn.co/image/ae277fce1078bbb5c4678d125ba43a13a74947e9",
+          "height": 82,
+          "width": 64
+        }
+      ],
+      "name": "Richard Wagner"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+      },
+      "genres": [
+        "christmas",
+        "big band",
+        "adult standards",
+        "swing music",
+        "vocal jazz",
+        "jazz"
+      ],
+      "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411",
+          "height": 650,
+          "width": 999
+        },
+        {
+          "url": "https://i.scdn.co/image/883de3e492364891543bc0313ffe516626778a16",
+          "height": 416,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/810f29651e05c9eae5a31f8151c2e05dc46390f9",
+          "height": 130,
+          "width": 200
+        },
+        {
+          "url": "https://i.scdn.co/image/a283ecdc6252ae305c53d283846cae2e8b22e94c",
+          "height": 42,
+          "width": 64
+        }
+      ],
+      "name": "Frank Sinatra"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+      },
+      "genres": [
+        "jazz",
+        "cool jazz",
+        "vocal jazz"
+      ],
+      "id": "3rxeQlsv0Sc2nyYaZ5W71T",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/8fd767aa91ecd8e5720b424812e2a17586834ac2",
+          "height": 817,
+          "width": 1000
+        },
+        {
+          "url": "https://i.scdn.co/image/baa4a09ca62a85dab5de4a8e9d635571b9cfac9d",
+          "height": 523,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/5c15cad68e6584825963e484deca44c12e118dfb",
+          "height": 163,
+          "width": 199
+        },
+        {
+          "url": "https://i.scdn.co/image/ec483daff287cc9cdb4a42cfa5bcd350a50bd89a",
+          "height": 52,
+          "width": 64
+        }
+      ],
+      "name": "Chet Baker"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+      },
+      "genres": [
+        "bossa nova",
+        "brazilian jazz",
+        "latin jazz",
+        "vocal jazz",
+        "adult standards"
+      ],
+      "id": "5rX2c1zow6hCph8PnnU3kF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b48a079c5273b6141af2dc35",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b48a079c5273b6141af2dc35",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b48a079c5273b6141af2dc35",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Astrud Gilberto"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+      },
+      "genres": [
+        "vocal jazz",
+        "jazz blues",
+        "soul jazz",
+        "soul",
+        "jazz",
+        "blues"
+      ],
+      "id": "7G1GBhoKtEPnP86X2PvEYO",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174136c51c848c26a6cce7f9e56",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178136c51c848c26a6cce7f9e56",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Nina Simone"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "genres": [
+        "hip hop",
+        "west coast rap"
+      ],
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f17839ba6dcd4355c03de0b50918",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Kendrick Lamar"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "genres": [
+        "east coast hip hop",
+        "hip hop",
+        "boom bap"
+      ],
+      "id": "5cMgGlA1xGyeAB2ctYlRdZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb85ee94998a936ef47231db39",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000517485ee94998a936ef47231db39",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f17885ee94998a936ef47231db39",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Gang Starr"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+      },
+      "genres": [
+        "east coast hip hop",
+        "hip hop"
+      ],
+      "id": "20qISvAhX20dpIbOOzGK3q",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb153198caeef9e3bda92f9285",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174153198caeef9e3bda92f9285",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178153198caeef9e3bda92f9285",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Nas"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+      },
+      "id": "0fA0VVWsXO9YnASrzqfmYu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb876faa285687786c3d314ae0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174876faa285687786c3d314ae0",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178876faa285687786c3d314ae0",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Kid Cudi"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+      },
+      "genres": [
+        "trip hop",
+        "downtempo"
+      ],
+      "id": "6FXMGgJwohJLUSr5nVlf9X",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/c8bbeedb05f38ae5cb982a7daf4bf7129cca892c",
+          "height": 1335,
+          "width": 1000
+        },
+        {
+          "url": "https://i.scdn.co/image/52c2a824e84f4e8adf0b12418f9f8306b4b5b77a",
+          "height": 855,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/0d6b7677f8291c5158bdace8a6e027880c527c2a",
+          "height": 267,
+          "width": 200
+        },
+        {
+          "url": "https://i.scdn.co/image/c055290bb6e97a589d8ca659cd452a8e9831c2c4",
+          "height": 85,
+          "width": 64
+        }
+      ],
+      "name": "Massive Attack"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
+      },
+      "genres": [
+        "breakcore",
+        "speedcore",
+        "hyperpop",
+        "jungle"
+      ],
+      "id": "17Vw9uuOYB7XYjPt0LNFN0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eba7bda8d6b29d5ee7c7380cc9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174a7bda8d6b29d5ee7c7380cc9",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178a7bda8d6b29d5ee7c7380cc9",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Machine Girl"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+      },
+      "genres": [
+        "pop punk"
+      ],
+      "id": "5ObBtv5VunwwhQaXXnUrsM",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb413cf4534fc77849f2c812a3",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174413cf4534fc77849f2c812a3",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178413cf4534fc77849f2c812a3",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "KennyHoopla"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+      },
+      "genres": [
+        "alternative rock"
+      ],
+      "id": "0C0XlULifJtAgn6ZNCW2eu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616100005174207b21f3ed0ee96adce3166a",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f178207b21f3ed0ee96adce3166a",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "The Killers"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD"
+      },
+      "genres": [],
+      "id": "6mrOjLZyPub9LcecUarcMD",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5044d30933e3102768928e09",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab676161000051745044d30933e3102768928e09",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f1785044d30933e3102768928e09",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "IAN SWEET"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+      },
+      "genres": [
+        "post-hardcore",
+        "screamo",
+        "emo",
+        "emo pop",
+        "pop punk",
+        "emocore"
+      ],
+      "id": "591yCCsZCLXvaJ0Rg38vLZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb29fb2ce01171457c13652a1f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000517429fb2ce01171457c13652a1f",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f17829fb2ce01171457c13652a1f",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "Senses Fail"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+      },
+      "genres": [
+        "melodic death metal",
+        "metal",
+        "melodic metal",
+        "death metal",
+        "metalcore"
+      ],
+      "id": "57ylwQTnFnIhJh4nu4rxCs",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5c3bd919d1344a738af14136",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab676161000051745c3bd919d1344a738af14136",
+          "height": 320,
+          "width": 320
+        },
+        {
+          "url": "https://i.scdn.co/image/ab6761610000f1785c3bd919d1344a738af14136",
+          "height": 160,
+          "width": 160
+        }
+      ],
+      "name": "In Flames"
+    }
+  ]
+}
