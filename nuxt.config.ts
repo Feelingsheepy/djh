@@ -7,6 +7,8 @@ export default defineNuxtConfig({
     layoutTransition: { name: 'layout', mode: 'out-in' },
   },
 
+  ssr: false,
+
   modules: [
     '@nuxt/ui',
     '@nuxt/eslint',

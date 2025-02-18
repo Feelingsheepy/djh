@@ -1,75 +1,15 @@
-# Nuxt UI v3 Starter
+Just a small About Me website.
 
-Look at [Nuxt docs](https://nuxt.com/docs/getting-started/introduction) and [Nuxt UI docs](https://ui3.nuxt.dev) to learn more.
+Created using Vue, Nuxt, NuxtUI v3, Tailwind v4.
 
-## Setup
+Hosted on Azure Static Web Apps at: https://polite-coast-0c0658603.4.azurestaticapps.net/
 
-Make sure to install the dependencies:
+I know there are no scrollbars, they were so ugly I had to remove them and I haven't had time to style them.
 
-```bash
-# npm
-npm install
+I need redo the Music section of About me page, because I couldn't figure out how to fill the space on the left. It looks fine for mobile.
 
-# pnpm
-pnpm install
+The Philosophy section of the About Me page needs to be slightly adjusted so the images are not so large, but I want to maintain the look of a book for each slide.
 
-# yarn
-yarn install
+The Books section of the About Me page needs to allow for clicking on the greyed out images to scroll the carousel.
 
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Feel free to make suggestions or provide feedback.
