@@ -10,7 +10,7 @@
         </ULink> is a website with components/pages showing UI prototypes. You can find the GitHub repository here:
         <ULink to="https://github.com/Feelingsheepy/playground" target="_blank" raw
           class="text-lg text-(--ui-text-muted) hover:text-(--ui-text-highlighted)">
-          <UIcon name="simple-icons:github" /> Playground
+          <UIcon name="simple-icons:github" class="align-text-top" /> Playground
         </ULink>
       </p>
       <p>
@@ -22,21 +22,21 @@
       <p>You can find the GitHub repository for this About Me website here:
         <ULink to="https://github.com/Feelingsheepy/djh" target="_blank" raw
           class="text-lg text-(--ui-text-muted) hover:text-(--ui-text-highlighted)">
-          <UIcon name="simple-icons:github" /> DJH
+          <UIcon name="simple-icons:github" class="align-text-top" /> DJH
         </ULink>
       </p>
       <br />
       <p>You can find my GitHub profile here:
         <ULink to="https://github.com/Feelingsheepy/" target="_blank" raw
           class="text-lg text-(--ui-text-muted) hover:text-(--ui-text-highlighted)">
-          <UIcon name="simple-icons:github" /> Feelingsheepy
+          <UIcon name="simple-icons:github" class="align-text-top" /> Feelingsheepy
         </ULink>
       </p>
       <br />
       <p>You can find my LinkedIn profile here:
         <ULink to="https://www.linkedin.com/in/dylan-husted-ba28a1349/" target="_blank" raw
           class="text-lg text-(--ui-text-muted) hover:text-(--ui-text-highlighted)">
-          <UIcon name="simple-icons:linkedin" />
+          <UIcon name="simple-icons:linkedin" class="align-text-top" />
         </ULink>
       </p>
       <p>Although I do not really use LinkedIn.</p>
@@ -44,7 +44,7 @@
       <p>You can find my personal Instagram profile here:
         <ULink to="https://www.instagram.com/dylan_husted/" target="_blank" raw
           class="text-lg text-(--ui-text-muted) hover:text-(--ui-text-highlighted)">
-          <UIcon name="simple-icons:instagram" />
+          <UIcon name="simple-icons:instagram" class="align-text-top" />
         </ULink>
       </p>
       <p>
